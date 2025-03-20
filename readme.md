@@ -7,8 +7,6 @@ I am a Ph.D. student in the Integrated Devices, Electronics, and Systems (IDEAS)
 Feel free to contact me at zhhuang@ethz.ch for any inquiries.
 
 ## Gallery
-
-**Tick to enlarge*
 <style>
     .gallery {
         display: flex;
