@@ -1,4 +1,4 @@
-[Gallery](#Gallery) | [Teaching](#Teaching)
+[Gallery](#Gallery) | [Teaching](#Teaching) | [Services](#Services) | [Publications](#Publications)
 
 ## About
 
