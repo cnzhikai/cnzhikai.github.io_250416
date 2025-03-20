@@ -1,6 +1,4 @@
----
-title: "Zhikai Huang (黄志凯)"
----
+[Gallery](#Gallery) | [Teaching](#Teaching)
 
 ## About
 
