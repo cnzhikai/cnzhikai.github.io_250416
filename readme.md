@@ -1,4 +1,6 @@
-[Gallery](#Gallery) | [Teaching](#Teaching) | [Services](#Services) | [Publications](#Publications)
+<head>
+    <title>Zhikai Huang (黄志凯)</title>
+</head>
 
 ## About
 
