@@ -122,7 +122,7 @@ Feel free to contact me at zhhuang@ethz.ch for any inquiries.
  <u>J</u>ournal, <u>C</u>onference, <u>T</u>hesis, <u>R</u>eports
  <br><br>
 <p>
- [C8] Marco Saif, Fuze Jiang, Shao-Wei Lo, Adam Y Wang, <u>Zhikai Huang</u>, Jiachen Wang, Hangxing Liu, Chih-Jen Shih, Thomas Burger, Hua Wang; <a href="https://doi.org/10.1109/ISSCC49661.2025.10904809">MEMS-Free 4096-Pixel CMOS E-Nose Gas Sensor Array with Molecular-Selective Metal-Organic-Framework Sensing and In-Pixel Thermodynamic Modulation for Fast Sensor Regeneration</a>; IEEE International Solid-State Circuits Conference (ISSCC 2025)
+ [C8] Marco Saif, Fuze Jiang, Shao-Wei Lo, Adam Y Wang, <u>Zhikai Huang</u>, Jiachen Wang, Hangxing Liu, Chih-Jen Shih, Thomas Burger, Hua Wang; <a href="https://doi.org/10.1109/ISSCC49661.2025.10904809">20.4 MEMS-Free 4096-Pixel CMOS E-Nose Gas Sensor Array with Molecular-Selective Metal-Organic-Framework Sensing and In-Pixel Thermodynamic Modulation for Fast Sensor Regeneration</a>; 2025 IEEE International Solid-State Circuits Conference (ISSCC)
 </p>
 
 <p>
@@ -146,7 +146,7 @@ Feel free to contact me at zhhuang@ethz.ch for any inquiries.
 </p>
 
 <p>
- [C2] Hangxing Liu, Fuze Jiang, Dongwon Lee, Yuguo Sheng, Adam Wang, Marco Saif, Ying Kong, <u>Zhikai Huang</u>, Thomas Burger, Jing Wang, Hua Wang; <a href="https://doi.org/10.1109/ESSERC62670.2024.10719586">A 256-channel in-pixel electrochemical platform in CMOS for rapid isothermal genetic amplification and screening</a> ; ESSCIRC 2023-IEEE 49th European Solid State Circuits Conference (ESSCIRC)
+ [C2] Hangxing Liu, Fuze Jiang, Dongwon Lee, Yuguo Sheng, Adam Wang, Marco Saif, Ying Kong, <u>Zhikai Huang</u>, Thomas Burger, Jing Wang, Hua Wang; <a href="https://doi.org/10.1109/ESSCIRC59616.2023.10268777">A 256-channel in-pixel electrochemical platform in CMOS for rapid isothermal genetic amplification and screening</a> ; ESSCIRC 2023-IEEE 49th European Solid State Circuits Conference (ESSCIRC)
 </p>
 
 <p>
