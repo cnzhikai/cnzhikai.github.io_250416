@@ -150,7 +150,7 @@ Feel free to contact me at zhhuang@ethz.ch for any inquiries.
 </p>
 
 <p>
- [C1] Alfio Di Mauro, Arpan Suravi Prasad, <u>Zhikai Huang</u>, Matteo Spallanzani, Francesco Conti, Luca Benini; SNE: an energy-proportional digital accelerator for sparse event-based convolutions; 2022 Design, Automation & Test in Europe Conference & Exhibition (DATE)
+ [C1] Alfio Di Mauro, Arpan Suravi Prasad, <u>Zhikai Huang</u>, Matteo Spallanzani, Francesco Conti, Luca Benini; [SNE: an energy-proportional digital accelerator for sparse event-based convolutions](https://doi.org/10.23919/DATE54114.2022.9774552); 2022 Design, Automation & Test in Europe Conference & Exhibition (DATE)
 </p>
 
 <p>
