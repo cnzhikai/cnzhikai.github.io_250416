@@ -65,6 +65,11 @@ Feel free to contact me at zhhuang@ethz.ch for any inquiries.
 
 <div class="gallery">
     <div class="gallery-item">
+        <a href="javascript:void(0)" onclick="openLightbox('https://github.com/cnzhikai/cnzhikai.github.io/blob/main/images/250330_MEA.jpg?raw=true', 'Microelectrode Array')">
+            <img src="https://github.com/cnzhikai/cnzhikai.github.io/blob/main/images/250330_MEA.jpg?raw=true">
+        </a>
+    </div>
+    <div class="gallery-item">
         <a href="javascript:void(0)" onclick="openLightbox('https://github.com/cnzhikai/cnzhikai.github.io/blob/main/images/microcage_array.jpg?raw=true', 'SEM Image of a Microcage Array')">
             <img src="https://github.com/cnzhikai/cnzhikai.github.io/blob/main/images/microcage_array.jpg?raw=true">
         </a>
