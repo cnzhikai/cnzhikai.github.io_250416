@@ -4,9 +4,7 @@
 
 ## About
 
-I am a Ph.D. student in the Integrated Devices, Electronics, and Systems (IDEAS) group at ETH Zurich, dedicated to advancing human health through innovative biomedical technologies. My research spans device design using scalable microfabrication techniques compatible with CMOS and MEMS platforms, circuit development for interfacing with the physical world through seamless integration and optimization, and system-level enhancement by incorporating advanced features like machine learning for broader applications.
-
-Feel free to contact me at zhhuang@ethz.ch for any inquiries.
+I am a Ph.D. student in the Integrated Devices, Electronics, and Systems (IDEAS) group at ETH Zurich, where I am dedicated to advancing human health through innovative biomedical technologies. My tentative doctoral thesis is titled: 'CMOS Microsystem with Origami Micro-Structures and Micro-Actuators for 3D Biological Interfacing'. Feel free to contact me at *zhhuang@ethz.ch* for any inquiries.
 
 ## Gallery
 <style>
