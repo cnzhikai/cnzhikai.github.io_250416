@@ -4,7 +4,7 @@
 
 ## About
 
-I am a Ph.D. student in the Integrated Devices, Electronics, and Systems (IDEAS) group at ETH Zurich, where I am dedicated to advancing human health through innovative biomedical technologies. My tentative doctoral thesis is titled: 'CMOS Microsystem with Origami Micro-Structures and Micro-Actuators for 3D Biological Sensing and Manipulation'. Feel free to contact me at *zhhuang@ethz.ch* for any inquiries.
+I am a Ph.D. student in the Integrated Devices, Electronics, and Systems (IDEAS) group at ETH Zurich, where I am dedicated to advancing human health through innovative biomedical technologies. My tentative doctoral thesis is titled: 'Reliable CMOS Microsystem with Origami Micro-Structures and Micro-Actuators for 3D Biological Sensing and Manipulation'. Feel free to contact me at *zhhuang@ethz.ch* for any inquiries.
 
 ## Gallery
 <style>
