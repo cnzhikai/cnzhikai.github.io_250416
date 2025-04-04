@@ -4,7 +4,7 @@
 
 ## About
 
-I am a Ph.D. student in the Integrated Devices, Electronics, and Systems (IDEAS) group at ETH Zurich, where I am dedicated to advancing human health through innovative biomedical technologies. My tentative doctoral thesis is titled: '3D Microsystem on CMOS for Biointerfacing: A Holistic Design and Integration Approach'. Feel free to contact me at *zhhuang@ethz.ch* for any inquiries.
+I am a Ph.D. student in the Integrated Devices, Electronics, and Systems (IDEAS) group at ETH Zurich. My tentative doctoral thesis is titled: 'Towards 3D Biological Interfacing with Lab-on-CMOS: Device, Circuits and Packaging'. Feel free to contact me at *zhhuang@ethz.ch* for any inquiries.
 
 ## Gallery
 <style>
