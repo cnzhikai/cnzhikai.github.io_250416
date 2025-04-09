@@ -4,7 +4,12 @@
 
 ## About
 
-I am a Ph.D. student in the Integrated Devices, Electronics, and Systems (IDEAS) group at ETH Zurich. My tentative doctoral thesis is titled: 'Towards 3D Biointerfaces on CMOS with Origami Structures and Microactuators: Devices, Circuits, and Packaging'. Feel free to contact me at *zhhuang@ethz.ch* for any inquiries.
+I am a Ph.D. student in the Integrated Devices, Electronics, and Systems (IDEAS) group at ETH Zurich. My tentative doctoral thesis is titled: 'Towards 3D Biointerfaces on CMOS with Origami Structures and Microactuators: Devices, Circuits, and Packaging'. Specifally, I am working on:
+1. Design and fabrication of 3D microstructurs and microactuators with CMOS-compatiable techniques
+2. Analog/Mixed-signal circuits design for bio-interfaces
+3. Packaging methods of modular lab-on-CMOS system for low-cost, long-term bio-interfaces
+
+Feel free to contact me at *zhhuang@ethz.ch* for any inquiries.
 
 ## Gallery
 <style>
